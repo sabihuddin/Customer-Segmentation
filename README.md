@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Online retail data set is a data set taken from Machine learning Repository website (http://archive.ics.uci.edu/ml/datasets/online+retail).The context of the data set is to predict customer segmentation. With the help of this data we will learn about some of the basic marketing analytical skills. We will create our own RFM model (Recency, frequency, monetary value), perform K- Mean clustering and make prediction about customer loyalty. 	
+The context of the data set is to predict customer segmentation. With the help of this data we will learn about some of the basic marketing analytical skills. We will create our own RFM model (Recency, frequency, monetary value), perform K- Mean clustering and make prediction about customer loyalty. 	
 
 ### Details about Data Set:
 
